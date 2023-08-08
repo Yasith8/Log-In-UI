@@ -1,8 +1,6 @@
-# React + Vite
+# Log In User Interface
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1920" alt="Cover" src="https://github.com/Yasith8/Log-In-UI/assets/90121062/d970c61f-9409-417d-8e84-959a957b4e68">
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+//Design own by respective creator
+https://www.figma.com/file/LKTh4KmubVTFIOE9TSlEbe/Login-Page-(Community)?type=design&t=dj9rmhb3ZtPKrCQt-6
