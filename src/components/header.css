@@ -1,0 +1,10 @@
+.bg-custom-bg {
+    background-image: url("../assets/images/img3.jpg");
+    background-color: lightgray 50%;
+}
+
+@media (max-width: 640px) {
+    .bg-custom-bg {
+        display: none;
+    }
+}
